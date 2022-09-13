@@ -3,11 +3,11 @@
   <title>三生茶`Blog</title>
   
   <subtitle>啧啧啧</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sanshengcha.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sanshengcha.github.io/"/>
   <updated>2022-09-11T09:39:05.546Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sanshengcha.github.io/</id>
   
   <author>
     <name>三生茶</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://sanshengcha.github.io/posts/4a17b156.html"/>
+    <id>https://sanshengcha.github.io/posts/4a17b156.html</id>
     <published>2022-09-11T09:14:30.915Z</published>
     <updated>2022-09-11T09:39:05.546Z</updated>
     
